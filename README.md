@@ -9,10 +9,5 @@
 
 ![快来夸我呀！.jpg](https://s2.ax1x.com/2019/03/30/ADKVC4.jpg)
 	
-### Jekyll Themes
-	
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Johnserf-Seed/vbcode/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-	
-### Support or Contact
-	
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 位置待定
+
