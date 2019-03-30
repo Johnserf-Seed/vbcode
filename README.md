@@ -5,7 +5,7 @@
 
 # 第三套（考试系统）
 
-[下载](https://raw.githubusercontent.com/Johnserf-Seed/vbcode/master/%E7%AC%AC3%E5%A5%97.rar)
+[下载](https://17shiyan2.cn/vbcode/3.rar)
 
 ![快来夸我呀！.jpg](https://s2.ax1x.com/2019/03/30/ADKVC4.jpg)
 	
