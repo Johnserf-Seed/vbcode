@@ -1,4 +1,4 @@
-# 这里啥都没有
+<center> **# 这里啥都没有** </center>
 ## 赶紧回首页吧！
 ### [ClickThere](https://17shiyan2.cn/vbcode)
 
