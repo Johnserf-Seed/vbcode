@@ -3,7 +3,7 @@
 ## <center> 赶紧回首页吧！</center>
 
 
-### <center>[ClickHere](https://17shiyan2.cn/vbcode)</center>
+###  [ClickHere](https://17shiyan2.cn/vbcode)
 
 
 
