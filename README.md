@@ -2,18 +2,29 @@
 <audio autoplay="autopaly">
 	<source src="https://m10.music.126.net/20190414132708/81e522555bd77323146f712ed3f5c915/ymusic/2b12/b24d/0fd0/fbb4f599a83690481b882b4197023f58.mp3" type="audio/mp3">
 </audio>
-
+<%
+  Object obj = application.getAttribute("count");
+     if(obj==null){
+   Integer count = 1;
+   application.setAttribute("count",count);
+   
+   }else{
+   Integer count = (Integer)obj;
+   count++;
+   application.setAttribute("count",count);
+   }
+   %>
 <p align="right" font-size:14px color="#3CB371">By~陈景跃</p>
 <br>
 <br>
 <hr size = "2">
-# 第三套（考试系统）
+# 第三套（考试系统） 下载量：<%=obj.toString()%>
 
 [下载](https://17shiyan2.cn/vbcode/3.rar)
 
 ![快来夸我呀！.jpg](https://s2.ax1x.com/2019/03/30/ADKVC4.jpg)
 	
-# 第五套（考试系统） 
+# 第五套（考试系统） 下载量：<%=obj.toString()%>
 更新于19/4/14 AM.10:00
 
 [下载](https://17shiyan2.cn/vbcode/dl/vb(5).rar)
