@@ -11,14 +11,14 @@
 <hr size = "2">
 # 第三套（考试系统） 
 
-[下载](https://17shiyan2.cn/vbcode/3.rar)   下载量：<spanid="counternum">次</span>
+[下载](https://17shiyan2.cn/vbcode/3.rar)   下载量：25 次
 
 ![快来夸我呀！.jpg](https://s2.ax1x.com/2019/03/30/ADKVC4.jpg)
 	
 # 第五套（考试系统） 
 更新于19/4/14 AM.10:00
 
-[下载](https://17shiyan2.cn/vbcode/dl/vb(5).rar)   下载量：<spanid="counternum">次</span>
+[下载](https://17shiyan2.cn/vbcode/dl/vb(5).rar)   下载量：17 次
 
 ### 位置待定
 <br>
