@@ -1,4 +1,5 @@
 ## 欢迎来到我的VB仓库，这里存放的是学校和我本人制作的VB作业代码和项目，还请Ctrl+D收藏呀！
+<title>VB仓库</title>
 <link rel="icon" type="image/png" sizes="32x32" href="https://17shiyan2.cn/images/favicon-32x32-next.ico">
 <audio autoplay="autopaly">
 	<source src="https://m10.music.126.net/20190414142650/f44370952455842e5b0fb3dba4a68de7/ymusic/2b12/b24d/0fd0/fbb4f599a83690481b882b4197023f58.mp3" type="audio/mp3">
