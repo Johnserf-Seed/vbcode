@@ -1,5 +1,5 @@
 ## 欢迎来到我的VB仓库，这里存放的是学校和我本人制作的VB作业代码和项目，还请Ctrl+D收藏呀！
-
+<link rel="icon" type="image/png" sizes="32x32" href="https://17shiyan2.cn/images/favicon-32x32-next.ico">
 <audio autoplay="autopaly">
 	<source src="https://m10.music.126.net/20190414142650/f44370952455842e5b0fb3dba4a68de7/ymusic/2b12/b24d/0fd0/fbb4f599a83690481b882b4197023f58.mp3" type="audio/mp3">
 </audio>
@@ -21,7 +21,8 @@
 ### 位置待定
 <br>
 
-<link rel="icon" type="image/png" sizes="32x32" href="https://17shiyan2.cn/images/favicon-32x32-next.ico">
+
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <a align="right" href="#"  onclick="javascript:alert('恭喜！')"><span id="busuanzi_container_site_uv">本站总访问人数<span id="busuanzi_value_site_uv"></span>次</span></a>
 <a align="right" href="#"  onclick="javascript:alert('恭喜！')"><span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span></a>
+<hr>
