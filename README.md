@@ -21,6 +21,6 @@
 <br>
 <link rel="icon" type="image/png" sizes="32x32" href="https://17shiyan2.cn/images/favicon-32x32-next.ico">
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<span id="busuanzi_container_site_uv">本站总访问人数<span id="busuanzi_value_site_uv"></span>次</span>
-<a align="right" href="#"><span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span></a>
-
+<a align="right" href="#"  onclick="javascript:alert('恭喜！')"><span id="busuanzi_container_site_uv">本站总访问人数<span id="busuanzi_value_site_uv"></span>次</span></a>
+<a align="right" href="#"  onclick="javascript:alert('恭喜！')"><span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span></a>
+<a href="javascript:window.close()" >关闭</a>
