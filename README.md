@@ -1,6 +1,6 @@
 
 ## 欢迎来到我的VB仓库，这里存放的是学校和我本人制作的VB作业代码和项目，还请Ctrl+D收藏呀！
-<link rel="icon" type="image/png" sizes="32x32" href="https://17shiyan2.cn/images/favicon-16x16-next.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://17shiyan2.cn/images/favicon-16x16-next.ico">
 <audio autoplay="autopaly">
 	<source src="https://17shiyan2.cn/music/m/%E5%81%87%E8%A3%85.mp3" type="audio/mp3">
 </audio>
