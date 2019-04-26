@@ -4,7 +4,7 @@
 <audio autoplay="autopaly">
 	<source src="http://music.163.com/song/media/outer/url?id=504835560.mp3" type="audio/mp3">
 </audio>
-<marquee loop="99"><p align="right" font-size:14px color="#3CB371">By~陈景跃</p></marquee>
+<marquee><p align="right" font-size:14px color="#3CB371">By~陈景跃</p></marquee>
 <br>
 <br>
 # 第三套（考试系统） 
