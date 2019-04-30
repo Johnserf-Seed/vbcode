@@ -44,15 +44,19 @@
 ---|:--:|---:
 书本157页(一、二题)|[下载](https://17shiyan2.cn/vbcode/dl/周末作业157页2题.rar)|下载量：16 次
 
-flow
-st=>start: 开始
-op=>operation: My Operation
-cond=>condition: Yes or No?
-e=>end
-st->op->cond
-cond(yes)->e
-cond(no)->op
-&
+mermaid
+graph LR
+    start[开始] --> input[输入A,B,C]
+    input --> conditionA{A是否大于B}
+    conditionA -- YES --> conditionC{A是否大于C}
+    conditionA -- NO --> conditionB{B是否大于C}
+    conditionC -- YES --> printA[输出A]
+    conditionC -- NO --> printC[输出C]
+    conditionB -- YES --> printB[输出B]
+    conditionB -- NO --> printC[输出C]
+    printA --> stop[结束]
+    printC --> stop
+    printB --> stop
 
 <br>
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
