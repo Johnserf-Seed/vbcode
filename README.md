@@ -44,20 +44,6 @@
 ---|:--:|---:
 书本157页(一、二题)|[下载](https://17shiyan2.cn/vbcode/dl/周末作业157页2题.rar)|下载量：16 次
 
-mermaid
-graph LR
-    start[开始] --> input[输入A,B,C]
-    input --> conditionA{A是否大于B}
-    conditionA -- YES --> conditionC{A是否大于C}
-    conditionA -- NO --> conditionB{B是否大于C}
-    conditionC -- YES --> printA[输出A]
-    conditionC -- NO --> printC[输出C]
-    conditionB -- YES --> printB[输出B]
-    conditionB -- NO --> printC[输出C]
-    printA --> stop[结束]
-    printC --> stop
-    printB --> stop
-
 <br>
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <a align="right" href="#"  onclick="javascript:alert('恭喜！')"><span id="busuanzi_container_site_uv">本站总访问人数<span id="busuanzi_value_site_uv"></span>次</span></a>
