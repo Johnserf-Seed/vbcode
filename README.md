@@ -44,7 +44,7 @@
 ---|:--:|---:
 书本157页(一、二题)|[下载](https://17shiyan2.cn/vbcode/dl/周末作业157页2题.rar)|下载量：16 次
 
-```flow
+flow
 st=>start: 开始
 op=>operation: My Operation
 cond=>condition: Yes or No?
@@ -52,7 +52,7 @@ e=>end
 st->op->cond
 cond(yes)->e
 cond(no)->op
-&```
+&
 
 <br>
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
