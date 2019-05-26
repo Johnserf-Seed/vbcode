@@ -2,7 +2,7 @@
 ## 欢迎来到我的VB仓库，这里存放的是学校和我本人制作的VB作业代码和项目，还请Ctrl+D收藏呀！
 <link rel="icon" type="image/png" sizes="16x16" href="https://17shiyan2.cn/images/favicon-16x16-next.ico">
 <audio autoplay="autopaly">
-	<source src="http://music.163.com/song/media/outer/url?id=504835560.mp3" type="audio/mp3">
+	<source src="http://music.163.com/song/media/outer/url?id=27493175.mp3" type="audio/mp3">
 </audio>
 <marquee>By~陈景跃</marquee>
 <br>
