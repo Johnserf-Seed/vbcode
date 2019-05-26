@@ -27,6 +27,16 @@
 
 >[下载](https://17shiyan2.cn/vbcode/dl/第六套.rar)   下载量：23 次
 
+# VB程序设计联系卷1（试卷） 
+更新于19/5/23 PM.14:01
+
+>[在线预览1](http://dl.17shiyan2.cn/?/images/2019/05/26/UNdrA6OlWo/1.png) 浏览量：7 次
+>>[CDN加速1](http://17shiyan2.cn/vbcode/dl/pic/vb程序设计第一卷/1.png)  
+>[在线预览2](http://dl.17shiyan2.cn/?/images/2019/05/26/cUmgnBavPD/2.png)   浏览量：3 次
+>>[CDN加速2](http://17shiyan2.cn/vbcode/dl/pic/vb程序设计第一卷/2.png) 
+>[在线预览3](http://dl.17shiyan2.cn/?/images/2019/05/26/sNHgwg2e0s/3.png)   浏览量：6 次
+>>[CDN加速3](http://17shiyan2.cn/vbcode/dl/pic/vb程序设计第一卷/3.png) 
+
 ### 位置待定
 
 ![快来夸我呀！.jpg](https://s2.ax1x.com/2019/03/30/ADKVC4.jpg)
