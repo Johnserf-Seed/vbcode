@@ -27,7 +27,7 @@
 
 >[下载](https://17shiyan2.cn/vbcode/dl/第六套.rar)   下载量：23 次
 
-# VB程序设计联系卷1（试卷） 
+# VB程序设计练习卷1（试卷） 
 更新于19/5/23 PM.14:01
 
 >[在线预览1](http://dl.17shiyan2.cn/?/images/2019/05/26/UNdrA6OlWo/1.png) 浏览量：7 次
