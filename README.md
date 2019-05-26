@@ -1,6 +1,6 @@
-<head>
-<link rel="icon" type="image/png" sizes="16x16" href="https://17shiyan2.cn/images/favicon-16x16-next.ico?v=6.0.6">
-</head>
+
+<link rel="icon" type="image/png" sizes="16x16" href="https://17shiyan2.cn/images/favicon-16x16-next.ico">
+
 ## 欢迎来到我的VB仓库，这里存放的是学校和我本人制作的VB作业代码和项目，还请Ctrl+D收藏呀！
 <audio autoplay="autopaly">
 	<source src="http://music.163.com/song/media/outer/url?id=27493175.mp3" type="audio/mp3">
@@ -28,7 +28,7 @@
 
 >[下载](https://17shiyan2.cn/vbcode/dl/第六套.rar)   下载量：23 次
 
-# VB程序设计练习卷1（试卷） 
+# VB程序设计练习卷1（试卷） ps.字丑 (*/ω＼*)
 更新于19/5/23 PM.14:01
 
 >[下载1](http://dl.17shiyan2.cn/?/images/2019/05/26/UNdrA6OlWo/1.png) 浏览量：7 次
