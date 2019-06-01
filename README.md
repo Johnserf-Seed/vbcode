@@ -31,15 +31,30 @@
 # VB程序设计练习卷1（试卷） ps.字丑 (*/ω＼*)
 更新于19/5/23 PM.14:01
 
->[下载1](http://dl.17shiyan2.cn/?/images/2019/05/26/UNdrA6OlWo/1.png) 浏览量：7 次
+>[下载1](http://dl.17shiyan2.cn/?/images/2019/05/26/UNdrA6OlWo/1.png) 浏览量：17 次
 >>[在线CDN加速1](http://17shiyan2.cn/vbcode/dl/pic/vb程序设计第一卷/1.png)  
 
->[下载2](http://dl.17shiyan2.cn/?/images/2019/05/26/cUmgnBavPD/2.png)   浏览量：3 次
+>[下载2](http://dl.17shiyan2.cn/?/images/2019/05/26/cUmgnBavPD/2.png)   浏览量：23 次
 >>[在线CDN加速2](http://17shiyan2.cn/vbcode/dl/pic/vb程序设计第一卷/2.png) 
 
 >[下载3](http://dl.17shiyan2.cn/?/images/2019/05/26/sNHgwg2e0s/3.png)   浏览量：6 次
 >>[在线CDN加速3](http://17shiyan2.cn/vbcode/dl/pic/vb程序设计第一卷/3.png) 
 
+# VB程序设计练习卷2（试卷） 
+更新于19/6/1 PM.14:50
+
+>[下载1](http://yanxuan.nosdn.127.net/52565eef2dd4f3ece8c8d9d4da6757fa.png) 浏览量：7 次
+>>[在线CDN加速1](http://yanxuan.nosdn.127.net/52565eef2dd4f3ece8c8d9d4da6757fa.png)  
+
+>[下载2](http://yanxuan.nosdn.127.net/77ac6f3533a6fc83d6aeb065d77816e8.png)   浏览量：9 次
+>>[在线CDN加速2](http://yanxuan.nosdn.127.net/77ac6f3533a6fc83d6aeb065d77816e8.png) 
+
+>[下载3](http://yanxuan.nosdn.127.net/077006b553e9da10ccc773cacfc6b839.png)   浏览量：6 次
+>>[在线CDN加速3](http://yanxuan.nosdn.127.net/077006b553e9da10ccc773cacfc6b839.png) 
+
+>[下载4](http://yanxuan.nosdn.127.net/c3937fef61d9b4e2d5f2d7917f422e4e.png)   浏览量：3 次
+>>[在线CDN加速4](http://yanxuan.nosdn.127.net/c3937fef61d9b4e2d5f2d7917f422e4e.png) 
+ [论坛地址](http://sgbbs.utools.club/forum.php?mod=viewthread&tid=21)
 ### 位置待定
 
 ![快来夸我呀！.jpg](https://s2.ax1x.com/2019/03/30/ADKVC4.jpg)
