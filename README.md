@@ -5,8 +5,8 @@
 <audio autoplay="autopaly">
 	<source src="http://music.163.com/song/media/outer/url?id=27493175.mp3" type="audio/mp3">
 </audio>
-<marquee>By~陈景跃</marquee>
-<marquee bgcolor="red">本页面即将大改，预计暑假时完成！</marquee>
+<marquee></marquee>
+<marquee><font color="red">本页面即将大改，预计暑假时完成！  By~陈景跃</font></marquee>
 <br>
 <br>
 # 第三套（考试系统）                                                    进制转换（源码+成品） 
