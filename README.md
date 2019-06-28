@@ -6,6 +6,7 @@
 	<source src="http://music.163.com/song/media/outer/url?id=27493175.mp3" type="audio/mp3">
 </audio>
 <marquee>By~陈景跃</marquee>
+<marquee bgcolor="red" onmouseover=this.stop() onmouseout=this.start()>本页面即将大改，预计暑假时完成！</marquee>
 <br>
 <br>
 # 第三套（考试系统）                                                    进制转换（源码+成品） 
@@ -55,7 +56,10 @@
 >[下载4](http://yanxuan.nosdn.127.net/c3937fef61d9b4e2d5f2d7917f422e4e.png)   浏览量：3 次
 >>[在线CDN加速4](http://yanxuan.nosdn.127.net/c3937fef61d9b4e2d5f2d7917f422e4e.png) 
 
+## 试卷暂时停止更新
 
+# 蓝本P47 To P51
+>RAR下载|[下载](https://17shiyan2.cn/vbcode/dl/QQ登录器.rar.rar)|下载量：5 次
 
  
 ### 位置待定
