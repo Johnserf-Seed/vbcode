@@ -42,7 +42,7 @@
 >[下载3](http://dl.17shiyan2.cn/?/images/2019/05/26/sNHgwg2e0s/3.png)   浏览量：6 次
 >>[在线CDN加速3](http://17shiyan2.cn/vbcode/dl/pic/vb程序设计第一卷/3.png) 
 
-# VB程序设计练习卷2（试卷）   [论坛地址](http://sgbbs.utools.club/forum.php?mod=viewthread&tid=21)
+# VB程序设计练习卷2（试卷）   [论坛地址](http://bbs.17shiyan2.cn/forum.php?mod=viewthread&tid=21)
 更新于19/6/1 PM.14:50
 
 >[下载1](http://yanxuan.nosdn.127.net/52565eef2dd4f3ece8c8d9d4da6757fa.png) 浏览量：7 次
