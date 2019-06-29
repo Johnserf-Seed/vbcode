@@ -83,7 +83,7 @@
 进制转换(附源码)|[下载](https://17shiyan2.cn/vbcode/dl/进制转换源码.rar)|下载量：2 次
 
 <br>
-
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <a align="right" href="#"  onclick="javascript:alert('欢迎━(*｀∀´*)ノ亻！ 恭喜！')"><span id="busuanzi_container_site_uv">本站总访问人数<span id="busuanzi_value_site_uv"></span>次</span></a>
 <a align="right" href="#"  onclick="javascript:alert('恭喜！已经有这么多人访问了！')"><span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span></a>
 <br>
